@@ -4,7 +4,7 @@ Welcome to the world of movies at the Movie Data House!
 
 The files located in this respoitory will give you access to thousands of movies with great ratings from across decades.
 
-This will provide the user with great information and statstics regarding thousands of movies. 
+This will provide the user with great information and statstics regarding thousands of movies in graphical representations. 
 
 
-#### Providing more information when the project is complete
+#### Providing more information and files when the project is complete
