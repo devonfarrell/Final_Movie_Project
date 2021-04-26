@@ -6,5 +6,6 @@ The files located in this respoitory will give you access to thousands of movies
 
 This will provide the user with great information and statstics regarding thousands of movies in graphical representations. 
 
+The data from this project comes from scrapping the IMDb Top 250 Page and and IMDb database from Kaggle that provides movie information for over 90,000 movies.
 
-#### Providing more information and files when the project is complete
+## Providing more infomration soon 
