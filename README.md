@@ -14,7 +14,9 @@ The data from this project comes from scrapping the IMDb Top 250 Page and and IM
  - Download final_project.py
  - Head to the Master Branch of this project
    - Download Sqlite3 movie_information database 
-   - Download both IMDb_ratings.csv and IMDb_movies.csv (if not downloaded from Kaggle already)
+   - Download both IMDb_ratings.csv and IMDb_movies.csv 
+
+Download all files into the same directory
 
 # Required Packages for running this code
  - Requests, csv
