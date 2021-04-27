@@ -10,6 +10,12 @@ This will provide the user with great information and statstics regarding thousa
 
 The data from this project comes from scrapping the IMDb Top 250 Page and and IMDb database from Kaggle that provides movie information for over 90,000 movies.
 
+# What you need to Download 
+ - Download final_project.py
+ - Head to the Master Branch of this project:
+   - Download Sqlite3 movie_information File
+   - Download both IMDb_ratings.csv and IMDb_movies.csv (if not downloaded from Kaggle already)
+
 # Required Packages for running this code
  - Requests, csv
  - json
