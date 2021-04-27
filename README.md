@@ -35,7 +35,7 @@ An sqlite3 database was used to house this infomration for storage and retriveal
 
 # Interaction and Presentation Options 
 
-To interact with this project, download the final_project.py. After the file runs the user will be presented with 10 options for interaction in the command line. These graphs are generating from query the database that houses the source information. 
+To interact with this project, download the final_project.py. After the file runs the user will be presented with 10 options for interaction in the command line. These graphs are generating from query the database that houses the source information. Using plotly, a table, scatter plot, and bar graph are used for this project, obtaining infomration from a query form the sqlite3 database. 
 
 The user will see the menu on the different options and what will appear with each input. 
 
