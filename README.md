@@ -35,7 +35,7 @@ Information from the top 250 chart was scrapped using the Beautiful Soup Package
 IMBD Movie Database
 source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset. 
 
-IMDb movie database that houses the records of over 90,000 movies originating from the 1800s. This data is in a csv format and the movies and ratings files were used. 
+IMDb movie database that houses the records of over 90,000 movies originating from the 1800s. This data is in a csv format and the movies and ratings files were used. Both the IMDb movies csv and IMDb ratings csv were used for this project. 
 
 # Database
 
