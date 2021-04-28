@@ -41,6 +41,8 @@ IMDb movie database that houses the records of over 90,000 movies originating fr
 
 An sqlite3 database was used to house this infomration for storage and retriveal for the ploty graphs. 
 
+This file is located in the master branch. 
+
 # Interaction and Presentation Options 
 
 To interact with this project, download the final_project.py. After the file runs the user will be presented with 10 options for interaction in the command line. These graphs are generating from query the database that houses the source information. Using plotly, a table, scatter plot, and bar graph are used for this project, obtaining infomration from a query form the sqlite3 database. 
