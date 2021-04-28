@@ -47,6 +47,8 @@ This file is located in the master branch.
 
 To interact with this project, download the final_project.py. After the file runs the user will be presented with 10 options for interaction in the command line. These graphs are generating from query the database that houses the source information. Using plotly, a table, scatter plot, and bar graph are used for this project, obtaining infomration from a query form the sqlite3 database. 
 
+Ther user will be promoted to select a number 1 - 10, for which they must enter.
+
 The user will see the menu on the different options and what will appear with each input. 
 
 Here are the following user inputs that are options:
@@ -66,6 +68,8 @@ The user will be prompted with the following question
 
 Once the user inputs, option 1-8 a graph will display in their webbrowser. If the user selects, option 9 they application will exit. If the user selects option 10, all options will display again. The user will be able to put in as many options in one application running as they please until they exit. The user input will also make sure only valid options numbers 1-10 are entered into the applications and interactive command line prompt. 
 
-# I hope you enjoy this project!
+
+
+#I hope you enjoy this project!
 
 
