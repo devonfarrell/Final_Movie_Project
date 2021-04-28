@@ -70,6 +70,6 @@ Once the user inputs, option 1-8 a graph will display in their webbrowser. If th
 
 
 
-#I hope you enjoy this project!
+# I hope you enjoy this project!
 
 
